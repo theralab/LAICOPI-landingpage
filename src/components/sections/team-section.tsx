@@ -21,7 +21,7 @@ export default function TeamSection() {
           <div className="flex flex-col items-center space-y-4 text-center">
             <div className="relative h-40 w-40 rounded-full overflow-hidden">
               <Image
-                src="/perfil.svg"
+                src="https://placehold.co/160x160"
                 width={160}
                 height={160}
                 alt="Professor Coordenador"

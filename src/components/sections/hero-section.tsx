@@ -32,7 +32,7 @@ export default function HeroSection() {
           </div>
           <div className="mx-auto w-full max-w-[400px] lg:max-w-none lg:mx-0">
             <Image
-              src="/banner.svg"
+              src="https://placehold.co/550x550"
               width={550}
               height={550}
               alt="Laboratório de Automação"

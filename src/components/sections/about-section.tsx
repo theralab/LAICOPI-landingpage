@@ -17,7 +17,7 @@ export default function AboutSection() {
         <div className="mx-auto grid max-w-5xl items-center gap-8 py-12 lg:grid-cols-2 lg:gap-12">
           <div className="mx-auto w-full max-w-[400px] lg:max-w-none">
             <Image
-              src="/banner.svg"
+              src="https://placehold.co/500x400"
               width={500}
               height={400}
               alt="Equipamentos do laboratório"

@@ -21,7 +21,7 @@ export default function TeamSection() {
           <div className="flex flex-col items-center space-y-4 text-center">
             <div className="relative h-40 w-40 rounded-full overflow-hidden">
               <Image
-                src="/placeholder.svg?height=160&width=160"
+                src="/perfil.svg"
                 width={160}
                 height={160}
                 alt="Professor Coordenador"
@@ -36,7 +36,7 @@ export default function TeamSection() {
                 em projetos industriais e acadêmicos.
               </p>
             </div>
-            <div className="flex gap-4">
+            <div className="flex flex-wrap justify-center gap-4">
               <Button variant="outline" size="sm">
                 Currículo Lattes
               </Button>
@@ -49,7 +49,7 @@ export default function TeamSection() {
 
         {/* Equipe de Pesquisadores */}
         <h3 className="text-2xl font-bold text-center mt-16 mb-8">Pesquisadores e Estudantes</h3>
-        <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+        <div className="grid gap-8 grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {teamMembers.map((member) => (
             <TeamMemberCard key={member.id} member={member} />
           ))}

@@ -14,7 +14,7 @@ export default function ContactSection() {
           </div>
         </div>
 
-        <div className="mx-auto grid max-w-4xl gap-6 py-12 lg:grid-cols-2">
+        <div className="mx-auto grid max-w-4xl gap-8 py-12 lg:grid-cols-2">
           <ContactInfo />
           <ContactForm />
         </div>

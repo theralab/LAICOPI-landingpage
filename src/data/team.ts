@@ -1,0 +1,58 @@
+export const teamMembers = [
+  {
+    id: "1",
+    name: "Dra. Ana Oliveira",
+    role: "Pesquisadora",
+    specialty: "Controle Preditivo",
+    image: "/placeholder.svg?height=96&width=96",
+  },
+  {
+    id: "2",
+    name: "Dr. Marcos Santos",
+    role: "Pesquisador",
+    specialty: "Inteligência Artificial",
+    image: "/placeholder.svg?height=96&width=96",
+  },
+  {
+    id: "3",
+    name: "João Pereira",
+    role: "Doutorando",
+    specialty: "Sistemas Embarcados",
+    image: "/placeholder.svg?height=96&width=96",
+  },
+  {
+    id: "4",
+    name: "Carla Mendes",
+    role: "Mestranda",
+    specialty: "Visão Computacional",
+    image: "/placeholder.svg?height=96&width=96",
+  },
+  {
+    id: "5",
+    name: "Rafael Costa",
+    role: "Mestrando",
+    specialty: "Redes Industriais",
+    image: "/placeholder.svg?height=96&width=96",
+  },
+  {
+    id: "6",
+    name: "Juliana Lima",
+    role: "Iniciação Científica",
+    specialty: "IoT Industrial",
+    image: "/placeholder.svg?height=96&width=96",
+  },
+  {
+    id: "7",
+    name: "Pedro Alves",
+    role: "Iniciação Científica",
+    specialty: "Automação",
+    image: "/placeholder.svg?height=96&width=96",
+  },
+  {
+    id: "8",
+    name: "Mariana Souza",
+    role: "Iniciação Científica",
+    specialty: "Eficiência Energética",
+    image: "/placeholder.svg?height=96&width=96",
+  },
+];

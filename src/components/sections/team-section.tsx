@@ -1,4 +1,5 @@
 import Image from "next/image"
+import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import TeamMemberCard from "@/components/ui/team-member-card"
 import { teamMembers } from "@/data/team"
@@ -37,9 +38,11 @@ export default function TeamSection() {
               </p>
             </div>
             <div className="flex flex-wrap justify-center gap-4">
-              <Button variant="outline" size="sm">
-                Currículo Lattes
-              </Button>
+              <Link href="http://lattes.cnpq.br/9437910347392764" target="_blank" rel="noopener noreferrer">
+                <Button variant="outline" size="sm">
+                  Currículo Lattes
+                </Button>
+              </Link>
               <Button variant="outline" size="sm">
                 Publicações
               </Button>

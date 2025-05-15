@@ -29,7 +29,7 @@ export default function TeamSection() {
               />
             </div>
             <div className="space-y-2">
-              <h3 className="text-2xl font-bold">Prof. Dr. Carlos Silva</h3>
+              <h3 className="text-2xl font-bold">Prof. Dr. José Pinheiro</h3>
               <p className="text-muted-foreground">Coordenador do Laboratório</p>
               <p className="max-w-[500px] text-muted-foreground">
                 Doutor em Engenharia Elétrica com ênfase em Controle e Automação. Possui mais de 15 anos de experiência

@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "LAICOPI",
-  description: "Laboratório de Automação Industrial e Controle de Processos Industriais",
+  description: "Laboratório de Automação Inteligente e Controle de Processos Industriais",
 };
 
 export default function RootLayout({

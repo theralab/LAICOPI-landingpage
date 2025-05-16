@@ -9,7 +9,7 @@ export default function AboutSection() {
           <div className="space-y-2">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Sobre o Laboratório</h2>
             <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              Nosso laboratório é dedicado à pesquisa e desenvolvimento de soluções inovadoras em automação e controle
+              Nosso laboratório é dedicado à pesquisa e desenvolvimento de soluções inovadoras em automação inteligente e controle
               de processos industriais.
             </p>
           </div>

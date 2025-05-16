@@ -11,7 +11,7 @@ export default function HeroSection() {
           <div className="flex flex-col justify-center space-y-4">
             <div className="space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
-                Laboratório de Automação Industrial e Controle de Processos Industriais
+                Laboratório de Automação Inteligente e Controle de Processos Industriais
               </h1>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
                 Desenvolvendo soluções inovadoras para os desafios da indústria moderna através da pesquisa acadêmica

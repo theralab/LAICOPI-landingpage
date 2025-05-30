@@ -30,7 +30,7 @@ export default function Footer() {
           <div className="flex items-center gap-1 text-sm text-muted-foreground">
             <span>Desenvolvido por Thera</span>
             <Link
-              href="https://linkedin.com/in/thera"
+              href="https://www.linkedin.com/company/theralabs/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:text-primary/80"
